@@ -1,2 +1,3 @@
 # Bank-Management-system
 A Python-based CLI application that simulates core banking operations, featuring secure user authentication, role-based access control, database management, and transaction processing. Demonstrates key backend and software engineering principles.
+This project is a robust, Python-based application designed to simulate core banking operations within a secure environment. It serves as a practical demonstration of fundamental software engineering principles, including database management, secure user authentication, role-based access control, and transaction processing. The system currently operates as a Command-Line Interface (CLI) application, making it a foundational backend system capable of managing user accounts and financial transactions.
